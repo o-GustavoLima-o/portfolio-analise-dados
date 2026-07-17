@@ -10,7 +10,7 @@ Projetos que desenvolvi como **Analista de Dados no Grupo Culinê** (grupo de re
 - **Engenharia de dados leve:** Google Apps Script (JavaScript) — consumo de API REST do ERP (Saipos), tratamento de dados com deduplicação, retry para falhas intermitentes e regras de virada de turno
 - **Camada de dados:** Google Sheets estruturado como fonte para os dashboards
 - **IA aplicada:** análise automatizada de perfil comportamental (DISC) integrada à planilha de respostas
-- **Negócio:** KPIs de food service — faturamento por canal, ticket médio, CMV, tempo de produção, metas escalonadas, NPS/avaliações multicanal
+- **Negócio:** KPIs de food service — faturamento por canal, ticket médio, CMV do cardapio, tempo de produção, metas escalonadas, NPS/avaliações multicanal
 
 ## Projetos
 
