@@ -1,6 +1,6 @@
 # Portfólio — Análise de Dados | Grupo Culinê
 
-Projetos que desenvolvi como **Analista de Dados no Grupo Culinê** (grupo de restaurantes), construindo do zero a camada de dados e indicadores do negócio: integração com APIs, pipelines de tratamento em JavaScript (Google Apps Script), planilhas estruturadas como camada de dados e dashboards em Looker Studio para as áreas de operação, atendimento, qualidade e gestão de pessoas.
+Projetos que desenvolvi como **Analista de Dados no Grupo Culinê** (grupo de restaurantes - Eu Quero Café e Ni Sushi), construindo do zero a camada de dados e indicadores do negócio: integração com APIs, pipelines de tratamento em JavaScript (Google Apps Script), planilhas estruturadas como camada de dados e dashboards em Looker Studio para as áreas de operação, atendimento, qualidade e gestão de pessoas.
 
 > 🔒 **Nota de privacidade:** todos os prints deste repositório tiveram valores, metas e nomes internos **desfocados na captura**, e os números citados nos textos são **fictícios/ilustrativos**, para preservar dados internos da empresa.
 
