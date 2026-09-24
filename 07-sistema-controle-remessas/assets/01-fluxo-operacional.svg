@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Fluxo operacional do sistema de remessas</title>
+  <desc id="desc">Fluxo da solicitação em PDF até o recebimento e análise gerencial.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17191a"/><stop offset="1" stop-color="#242829"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#000" flood-opacity=".28"/></filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#9aaa87"/></marker>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1390" cy="100" r="260" fill="#fff" opacity=".025"/>
+  <text x="90" y="92" fill="#9aaa87" font-family="Arial" font-size="22" font-weight="700" letter-spacing="4">GRUPO CULINÊ · OPERAÇÕES</text>
+  <text x="90" y="160" fill="#f3f0e9" font-family="Georgia" font-size="54" font-weight="700">Do pedido à conferência</text>
+  <text x="90" y="205" fill="#bfc2be" font-family="Arial" font-size="24">Uma trilha única para localizar onde o abastecimento divergiu.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="90" y="295" width="280" height="250" rx="28" fill="#292d2f" stroke="#495052"/>
+    <rect x="450" y="295" width="280" height="250" rx="28" fill="#292d2f" stroke="#495052"/>
+    <rect x="810" y="295" width="280" height="250" rx="28" fill="#292d2f" stroke="#495052"/>
+    <rect x="1170" y="295" width="340" height="250" rx="28" fill="#292d2f" stroke="#495052"/>
+  </g>
+  <g fill="none" stroke="#9aaa87" stroke-width="6" marker-end="url(#arrow)">
+    <path d="M375 420 H430"/><path d="M735 420 H790"/><path d="M1095 420 H1150"/>
+  </g>
+  <g font-family="Arial">
+    <circle cx="140" cy="350" r="23" fill="#9aaa87"/><text x="140" y="359" text-anchor="middle" fill="#17191a" font-size="25" font-weight="700">1</text>
+    <text x="130" y="410" fill="#f3f0e9" font-size="31" font-weight="700">Solicitação</text>
+    <text x="130" y="452" fill="#bfc2be" font-size="20">Quatro PDFs</text><text x="130" y="482" fill="#bfc2be" font-size="20">organizados por loja</text>
+
+    <circle cx="500" cy="350" r="23" fill="#9aaa87"/><text x="500" y="359" text-anchor="middle" fill="#17191a" font-size="25" font-weight="700">2</text>
+    <text x="490" y="410" fill="#f3f0e9" font-size="31" font-weight="700">Remessa</text>
+    <text x="490" y="452" fill="#bfc2be" font-size="20">Confirmação do envio</text><text x="490" y="482" fill="#bfc2be" font-size="20">e código de 4 dígitos</text>
+
+    <circle cx="860" cy="350" r="23" fill="#9aaa87"/><text x="860" y="359" text-anchor="middle" fill="#17191a" font-size="25" font-weight="700">3</text>
+    <text x="850" y="410" fill="#f3f0e9" font-size="31" font-weight="700">Recebimento</text>
+    <text x="850" y="452" fill="#bfc2be" font-size="20">Conferência do físico</text><text x="850" y="482" fill="#bfc2be" font-size="20">e registro da diferença</text>
+
+    <circle cx="1220" cy="350" r="23" fill="#9aaa87"/><text x="1220" y="359" text-anchor="middle" fill="#17191a" font-size="25" font-weight="700">4</text>
+    <text x="1210" y="410" fill="#f3f0e9" font-size="31" font-weight="700">Gerência</text>
+    <text x="1210" y="452" fill="#bfc2be" font-size="20">Atendimento, cobertura,</text><text x="1210" y="482" fill="#bfc2be" font-size="20">conformidade e pendências</text>
+  </g>
+
+  <g transform="translate(90 645)">
+    <rect width="1420" height="145" rx="24" fill="#303537"/>
+    <text x="38" y="48" fill="#9aaa87" font-family="Arial" font-size="18" font-weight="700" letter-spacing="2">PERGUNTAS RESPONDIDAS</text>
+    <text x="38" y="98" fill="#f3f0e9" font-family="Arial" font-size="27" font-weight="700">O solicitado foi atendido?</text>
+    <text x="500" y="98" fill="#f3f0e9" font-family="Arial" font-size="27" font-weight="700">O enviado chegou?</text>
+    <text x="865" y="98" fill="#f3f0e9" font-family="Arial" font-size="27" font-weight="700">Qual loja exige atenção?</text>
+  </g>
+</svg>
