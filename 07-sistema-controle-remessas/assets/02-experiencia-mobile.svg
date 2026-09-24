@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Experiência mobile do sistema de remessas</title>
+  <desc id="desc">Três telas demonstrativas: escolha do fluxo, conferência dos itens e recebimentos abertos.</desc>
+  <rect width="1600" height="900" fill="#191b1c"/>
+  <text x="80" y="82" fill="#9aaa87" font-family="Arial" font-size="21" font-weight="700" letter-spacing="4">INTERFACE MOBILE-FIRST</text>
+  <text x="80" y="145" fill="#f3f0e9" font-family="Georgia" font-size="50" font-weight="700">Menos digitação, mais conferência</text>
+  <text x="80" y="188" fill="#bfc2be" font-family="Arial" font-size="23">Valores sugeridos pelo sistema; o operador registra apenas as exceções.</text>
+
+  <g font-family="Arial">
+    <g transform="translate(105 250)">
+      <rect width="390" height="570" rx="42" fill="#111314" stroke="#596063" stroke-width="3"/>
+      <rect x="18" y="24" width="354" height="522" rx="28" fill="#24282a"/>
+      <text x="42" y="70" fill="#9aaa87" font-size="14" font-weight="700">SOLICITAÇÃO</text>
+      <text x="42" y="108" fill="#f3f0e9" font-family="Georgia" font-size="27" font-weight="700">Qual é o fluxo?</text>
+      <text x="42" y="143" fill="#bfc2be" font-size="14">Esta movimentação parte de</text><text x="42" y="164" fill="#bfc2be" font-size="14">uma solicitação?</text>
+      <rect x="42" y="205" width="306" height="105" rx="18" fill="#303537" stroke="#9aaa87"/>
+      <text x="62" y="242" fill="#f3f0e9" font-size="17" font-weight="700">Sim, existe solicitação</text>
+      <text x="62" y="271" fill="#bfc2be" font-size="13">Solicitado > enviado > recebido</text>
+      <rect x="42" y="329" width="306" height="105" rx="18" fill="#303537"/>
+      <text x="62" y="366" fill="#f3f0e9" font-size="17" font-weight="700">Transferência simples</text>
+      <text x="62" y="395" fill="#bfc2be" font-size="13">Enviado > recebido</text>
+      <circle cx="195" cy="509" r="5" fill="#9aaa87"/><circle cx="215" cy="509" r="5" fill="#596063"/><circle cx="235" cy="509" r="5" fill="#596063"/>
+    </g>
+
+    <g transform="translate(605 250)">
+      <rect width="390" height="570" rx="42" fill="#111314" stroke="#596063" stroke-width="3"/>
+      <rect x="18" y="24" width="354" height="522" rx="28" fill="#24282a"/>
+      <text x="42" y="70" fill="#9aaa87" font-size="14" font-weight="700">CONFIRMAÇÃO</text>
+      <text x="42" y="108" fill="#f3f0e9" font-family="Georgia" font-size="27" font-weight="700">Revise a remessa</text>
+      <g transform="translate(42 145)">
+        <rect width="306" height="105" rx="16" fill="#303537"/>
+        <text x="18" y="28" fill="#f3f0e9" font-size="14" font-weight="700">MP AÇÚCAR MASCAVO</text>
+        <text x="18" y="55" fill="#bfc2be" font-size="12">Solicitado</text><text x="105" y="55" fill="#bfc2be" font-size="12">Enviado</text>
+        <rect x="18" y="66" width="72" height="26" rx="7" fill="#24282a"/><rect x="105" y="66" width="72" height="26" rx="7" fill="#24282a"/>
+        <text x="28" y="85" fill="#f3f0e9" font-size="13">12 KG</text><text x="115" y="85" fill="#f3f0e9" font-size="13">12 KG</text>
+      </g>
+      <g transform="translate(42 268)">
+        <rect width="306" height="105" rx="16" fill="#303537"/>
+        <text x="18" y="28" fill="#f3f0e9" font-size="14" font-weight="700">MP CHIMICHURRI</text>
+        <text x="18" y="55" fill="#bfc2be" font-size="12">Solicitado</text><text x="105" y="55" fill="#bfc2be" font-size="12">Enviado</text>
+        <rect x="18" y="66" width="72" height="26" rx="7" fill="#24282a"/><rect x="105" y="66" width="72" height="26" rx="7" fill="#24282a"/>
+        <text x="28" y="85" fill="#f3f0e9" font-size="13">2 KG</text><text x="115" y="85" fill="#f3f0e9" font-size="13">2 KG</text>
+      </g>
+      <rect x="42" y="407" width="306" height="50" rx="14" fill="#7b896d"/>
+      <text x="195" y="438" text-anchor="middle" fill="#fff" font-size="14" font-weight="700">Confirmar e gerar códigos</text>
+      <text x="195" y="494" text-anchor="middle" fill="#bfc2be" font-size="12">Edite somente o que divergir</text>
+    </g>
+
+    <g transform="translate(1105 250)">
+      <rect width="390" height="570" rx="42" fill="#111314" stroke="#596063" stroke-width="3"/>
+      <rect x="18" y="24" width="354" height="522" rx="28" fill="#24282a"/>
+      <text x="42" y="70" fill="#9aaa87" font-size="14" font-weight="700">RECEBIMENTOS</text>
+      <text x="42" y="108" fill="#f3f0e9" font-family="Georgia" font-size="27" font-weight="700">Entregas abertas</text>
+      <g transform="translate(42 145)">
+        <rect width="306" height="92" rx="16" fill="#303537"/>
+        <text x="18" y="31" fill="#f3f0e9" font-size="18" font-weight="700">0042</text>
+        <text x="18" y="56" fill="#bfc2be" font-size="12">Araçatuba > EQC TL</text>
+        <rect x="215" y="24" width="72" height="40" rx="12" fill="#7b896d"/><text x="251" y="49" text-anchor="middle" fill="#fff" font-size="12" font-weight="700">Conferir</text>
+      </g>
+      <g transform="translate(42 254)">
+        <rect width="306" height="92" rx="16" fill="#303537"/>
+        <text x="18" y="31" fill="#f3f0e9" font-size="18" font-weight="700">0043</text>
+        <text x="18" y="56" fill="#bfc2be" font-size="12">EQC TL > Produção</text>
+        <rect x="215" y="24" width="72" height="40" rx="12" fill="#7b896d"/><text x="251" y="49" text-anchor="middle" fill="#fff" font-size="12" font-weight="700">Conferir</text>
+      </g>
+      <g transform="translate(42 363)">
+        <rect width="306" height="92" rx="16" fill="#303537"/>
+        <text x="18" y="31" fill="#f3f0e9" font-size="18" font-weight="700">0044</text>
+        <text x="18" y="56" fill="#bfc2be" font-size="12">EQC TL > Ni Sushi</text>
+        <rect x="215" y="24" width="72" height="40" rx="12" fill="#7b896d"/><text x="251" y="49" text-anchor="middle" fill="#fff" font-size="12" font-weight="700">Conferir</text>
+      </g>
+      <text x="195" y="494" text-anchor="middle" fill="#bfc2be" font-size="12">Lista atualizada automaticamente</text>
+    </g>
+  </g>
+</svg>
